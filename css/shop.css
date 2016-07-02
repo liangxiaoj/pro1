@@ -1,4 +1,35 @@
 /*动态*/
+.userCenter{width: 200px;height: 45px;color:#fff;font-size: 22px;float: left;line-height: 45px;background:url("../images/center/users.png")no-repeat 42px 10px ;text-align: center}
+.userCenter > span{cursor: pointer;user-select:none;-webkit-user-select: none;margin-left: 30px;}
+.overstriking{font-weight: bold;font-size: 15px;}
+.ma16{margin-top: 16px;}
+.shopImg{position: relative;float: left;width: 200px;height: 200px;}
+.shopImg img{width: 198px;height: 198px;display: block;border:1px solid #ff9700;}
+.shopImg p{position: absolute;bottom:0;left: 0;width: 100%;background: rgba(255,151,0,.75);height:32px;line-height: 32px;text-align: center;font-size:18px;color:#fff;}
+.joinAc{width: 119px;height: 34px;background: #ff9700;font-size:18px;font-family: 'microsoft yahei bold';float: left;border-radius: 4px;text-align: center;line-height:34px;color:#fff;font-weight: bold;}
+.red-bg{background-color:#f23f00;color:#fff;}
+.pt_ol{line-height:24px;margin-left:20px;margin-top:18px;}
+
+.impCon{float: left;height: 100px;margin-left: 13px;overflow: hidden;}
+.impCon img{display: block;width: 84px;height: 15px;}
+.impCon .nickname img{display: block;width: 84px;height: 15px;}
+.impCon p{margin-top: 10px;}
+
+.pages{clear:both;float:left;margin-top:20px;padding:10px 0;text-align:center;width:100%;}
+.pages span,.pages a,.pages b{font-family:Arial, Helvetica, sans-serif;font-size:12px;}
+.pages span font{color:red;font-size:12px;}
+.pages a,.pages b{background:#fff;border:1px solid #e6e6e6;padding:2px 6px;text-decoration:none;}
+.pages b,.pages a:hover{background:#fc9900;color:#fff;}
+
+.xqly_right{float:right;line-height:54px;margin-right:20px;}
+.comments{float:left;margin-top:26px;width:100%;}
+
+
+.lsxq_con{margin-left:14px;margin-top:24px;}
+.lsxq_con li{width:200px;}
+.lsxq_con li a{color:#666;font-size:14px;line-height:25px;}
+
+
 .shopManage{width: 228px;float: left;padding-bottom: 20px; overflow: hidden;}
 .shopMiddle{width: 702px;height: 100%;margin: 0 21px 0 21px;background: #fff;}
 .factoryStore{height: 508px;width: 228px;border: 1px solid #e6e6e6;box-sizing: border-box;background: #fff;}
@@ -30,6 +61,7 @@
 .styleCon a:last-child{margin-right: 0;}
 
 .shopVip{width: 100%;height: 262px;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 21px;background: #fff;}
+.shopVip h1{text-align: center;margin:10px 0 5px 0;}
 .ml22{margin-left: 22px;font-size:14px;color:#333;}
 .k2{background-color:#ec0b0b;color:#fff;height:35px;line-height:35px;margin-left:15px;margin-top:15px;text-align:center;width: 198px;color:#fff;}
 .k2 a{color:#fff;font-size:14px;font-weight:bold;}
@@ -72,7 +104,7 @@
 .apply2 span{color: #ff8042;}
 .nickname{width: 520px;}
 .nickname>a{font-size: 16px;color: #2f88cc;float: left;}
-.nickname img{display: block;float: left;margin-left: 10px;}
+
 .imp2{height: 110px;width: 656px;box-sizing: border-box;border-bottom: 1px solid #e6e6e6;margin: 20px 23px 0 23px;}
 .imp2 img{display: block;float: left;width: 100px;height: 100px;}
 .mt6{margin-top: 10px;}
@@ -83,6 +115,12 @@
 .xqly_left3{float: left;width: 100px;margin-left: 24px;font-size: 16px;}
 .Logon2{float:left;margin-left:18px;margin-top:10px;width:570px;}
 .copy{color:#999;margin-top: 10px;text-align:center;}
+
+.picture{float:left;margin-left:22px;}
+.logon_in{color:#979797;float:left;font-size:13px;}
+.logon_in span a{color:#3187cd;font-size:13px;}
+
+.fbly{float:left;margin-top: 15px;}
 
 .evaluation{height: 58px;border: 1px solid #e6e6e6;box-sizing: border-box;background: #fff;}
 .evaluation p{width: 99px;height:30px;line-height:30px;background-color: #f4f4f4;border: 1px solid #e6e6e6;border-radius: 2px;float: left;margin: 12px 0 0 8px;text-indent: 10px;}
@@ -129,7 +167,19 @@
 .vacancy2Top{height: 32px;line-height: 32px;border-bottom: 1px solid #e6e6e6;text-indent: 16px;}
 
 .message5{margin: 20px 0 0 18px;}
-.ma260{width: 260px;}
+.message_left3{}
+.zw{float:left;width:380px;}
+.zw h5{color:#313131;float:left;font-size:25px;}
+.ck{float:left;margin-left:20px;margin-top:8px;width:240px;}
+.ck a{font-size:12px;}
+.money{margin-top:20px;}
+.working_hours{margin-top:17px;}
+.grxx{float:left;margin-top:10px;}
+.grxx_ul li{float:left;margin-top:7px;padding-right:7px;}
+.grxx_ul li a{background:#fff;border:1px solid #b6b6b6;color:#9c9c9c;display:inline-block;font-size:12px;padding:2px 6px;}
+.message_right{float:right;margin-right:20px;}
+
+.ma260{width: 270px;}
 .wid330{width: 400px;float: left;}
 /*信用管理*/
 .creditRating{height: 60px;line-height:60px;font-size: 18px;}
@@ -138,6 +188,8 @@
 .certification{height:40px;line-height:40px;margin-left: 14px;}
 .radioCon{width: 16px;height: 16px;margin-right: 6px;margin-top:12px;display: block;float: left;}
 .hire2{border-radius:4px;font-size:18px;height:40px;line-height:40px;margin-left:30px;text-align:center;width:90px;}
+.orange-bg{background-color:#fd9903;color:#fff;}
+.left{float: left;}
 .hire3{border-radius:4px;font-size:18px;height:24px;line-height:24px;text-align:center;width:60px;margin-top: 10px;}
 
 .browseList{}
@@ -157,6 +209,38 @@
 .degreeList li:last-child{margin-right: 0;}
 .degreeList li>div{}
 .friendNumber2{width: 228px;height: 420px;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 20px;background: #fff;}
+
+.bean{height: 42px;line-height: 42px;}
+.bean a{width: 50%;display: inline-block;text-align: center;font-weight: bold;font-size: 14px;}
+.bean a:hover{background: #ff9700;color: #fff;}
+.bean a.hotP{background: #ff9700;color:#fff;}
+
+.width234{width: 234px;margin: auto;}
+.width234 li{margin-top: 22px;height: 50px;}
+.width196{width: 196px;}
+.describe{float: left;margin-left: 5px;width: 84px;}
+.nameB{font-size: 14px;color: #8ab5de;padding-bottom: 10px;}
+
+.zh{display: inline-block;width: 54px;box-sizing: border-box;border-right: 1px solid #e6e6e6;}
+.tm{display: inline-block;width: 83px;}
+.Collection li a,.sfyz a{color:#5f5f5f;font-size:14px;}
+.Collection li {float: left; padding-right: 21px;}
+
+.tableCon{margin: 0 30px;}
+.mo{margin:24px 0 0 0;}
+.tableCon table{border-top: 1px solid #e6e6e6;border-right: 1px solid #e6e6e6;}
+.tableCon td{border-bottom: 1px solid #e6e6e6;border-left: 1px solid #e6e6e6;height: 35px;text-indent: 10px;color:#666;}
+.tableCon td.bdLN{border-left: none;}
+.tableCon td.alR{text-align: right;}
+/*代表（收到的交易评价）*/
+.imgList{margin: 0 0 0 3px; overflow: hidden;}
+.behaList{}
+.behaList li{margin: 8px 0 0 8px!important}
+.imgList li{position: relative;width: 65px; height: 65px;margin: 15px 0 0 15px;float: left;}
+.imgList img{border:1px solid #f7f7f7;}
+.imgList p{position: absolute;bottom: 0;left: 0;width: 100%;height: 16px;line-height: 16px;color:#fff;text-align: center; background: rgba(0,0,0,.4);}
+.imgList a:hover img{border-color:#fe6601;}
+.imgList a:hover p{display: none;}
 
 
 
