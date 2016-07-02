@@ -1,0 +1,69 @@
+/*手机注册成功*/
+body{background: #f7f7f7;}
+.successOver{width: 1200px;margin: 23px auto 25px auto;height: 578px;box-sizing: border-box;border: 1px solid #e6e6e6;background: #ffffff;}
+.congratulation{width: 292px;height: 156px;margin: 94px auto 0 auto;}
+.teleNumber{margin:10px 0 30px 54px;font-size: 14px;color: #666666;}
+.congratulation span{color: #ff6600;}
+.userImg{margin-left: 56px;}
+.userImg p:last-child{margin-top: 15px;font-size: 12px;color: #808080;margin-left: 5px;}
+/*新用户注册*/
+.newHight{height: 614px;}
+.newCon{width: 1000px;margin: 45px auto 55px auto;}
+.newLeft{width: 610px;float: left;}
+.newRight{width: 390px;float: left}
+.newLeft>span{font-size: 24px;color: #333333;}
+.mar17{margin-left: 17px;}
+.inputHz{color: #cccccc;}
+.inputCon{height: 38px;line-height: 38px;margin-top: 29px;color: #cccccc;}
+.tit55{width: 60px;text-align: right;font-size: 12px;color: #666666;display: inline-block;}
+.inputH{height: 38px;width: 250px;border: 1px solid #d9d9d9;box-sizing: border-box;margin-right: 11px;margin-left: 16px;text-indent: 5px;}
+.accept{margin-top: 7px;margin-left: 76px;}
+.authCode{height: 40px;margin-top: 16px;}
+.inputH1{height: 40px;width: 120px;box-sizing: border-box;border: 1px solid #bcbcbc;float: left;text-indent: 10px;margin-right: 10px;}
+.authCode img{display: block;float: left;}
+.authCode a{color: #ff6600;}
+.gd13{height: 13px;line-height: 13px;}
+.gd13 span{color: #666666;}
+.bk1{border: 1px solid #666666;width: 13px;height: 13px;box-sizing: border-box;margin-right: 6px;display: block;float: left;}
+.member{height: 195px;margin-right: 52px;margin-top: 136px;float: right;}
+.member>span{font-size: 24px;color: #333333;}
+.nowdImg{margin: 25px 0 0 34px;}
+.weixinImg{margin-left: 34px;margin-top: 42px;}
+.weixinImg a{display: block;float: left;margin-left: 12px;}
+.weixinImg a:first-child{margin-left: 0;}
+.account{margin-bottom: 19px;}
+.bj{border-left: 1px solid #e6e6e6;height: 511px;}
+/*用户登录*/
+.member1{margin: 15px 0 0 80px;color: #808080;}
+.member1 span{color: #f03e00;}
+.tit42{width: 48px;text-align: right;color: #666666;display: inline-block;float: left;}
+.tit58{width: 72px;text-align: right;color: #666666;display: inline-block;float: left;}
+
+.mar19{margin-left: 65px;}
+.login2Img{margin: 23px 0 37px 0;}
+.magin{margin-top: 0;}
+.marleft{margin-left: 16px;height: 38px;}
+.inputCon >img{float: left;display: block;margin-right: 10px;}
+.blu{color: #2f88cc;}
+/*找回密码*/
+.retrieveLeft{width: 176px;float: left;}
+.retrieveLeft span{font-size: 24px;color: #333333;}
+.retrieveRight{float: left;width: 593px;}
+.account2{margin: 72px 0 66px 46px;}
+.problem{height: 170px;width: 100%;background: #fafafa;border: 1px solid #f2f2f2;box-sizing: border-box;}
+.margin23{margin-left: 23px;margin-top: 24px;}
+.margin23 strong{font-size: 14px;color: #333333;}
+.js66{color: #ff6600;margin-top: 22px;}
+.margin23 li{line-height: 16px;margin-top: 10px;color: #666666;}
+/*手机找回密码*/
+.height35{height: 35px;background: #fff9ec;box-sizing: border-box;border: 1px solid #ffe8b0;width: 100%;margin-top: 72px;text-indent: 14px;color: #ff9700;line-height: 35px; }
+/*邮箱找回密码*/
+.newfs{margin-top: 14px;color: #666666;}
+.newfs a{text-decoration: underline;color: #ff6600;}
+/*设置新密码*/
+.setCon{margin: 72px 0 0 6px;}
+.mg88{margin-left: 88px;}
+.width368{width: 368px;}
+.ml{margin-left: 60px;}
+.m1{margin-left: 48px;}
+.width368 p{margin-top: 16px;color: #666666;}

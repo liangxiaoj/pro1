@@ -1,0 +1,165 @@
+/*动态*/
+.shopManage{width: 228px;float: left;padding-bottom: 20px; overflow: hidden;}
+.shopMiddle{width: 702px;height: 100%;margin: 0 21px 0 21px;background: #fff;}
+.factoryStore{height: 508px;width: 228px;border: 1px solid #e6e6e6;box-sizing: border-box;background: #fff;}
+.factoryName{width: 200px;margin: auto;height: 100%;}
+.factoryName h5{height: 46px;line-height: 46px;font-size: 21px;color: #666666;}
+.rating{}
+.rating li{margin-top: 10px;}
+.rating li a{display: inline-block;float: left;}
+.rating li img{display: block;float: left;margin-right: 6px;}
+.collection2{margin-top: 14px;}
+.collection2 li{float: left;width: 60px;border: 1px solid #e6e6e6;height: 24px;text-align: center;line-height: 24px;margin-right: 6px;background: #f7f7f7;}
+.collection2 li:last-child{margin-right: 0;}
+.contact3{height: 34px;width: 119px;margin: 5px auto 0 auto;}
+.contact5{margin-top: 20px;}
+.contact5 img{display: block;height:59px;width: 227px;}
+
+.storeTag{height: 194px;width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 21px;background: #fff;}
+.storetagList{}
+.storetagList li{margin-top: 10px;}
+.storetagList strong{font-size: 14px;}
+.storetagList a{padding: 4px;background:#ff9700;color: #fff;}
+
+.bacMusic{height: 149px;width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 21px;background: #fff;}
+
+.shopStyle{height: 136px;width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 21px;background: #fff;}
+.styleTop{height: 64px;line-height: 64px;font-size: 22px;font-weight: bold;text-align: center;width: 100%;border-bottom: 1px solid #e6e6e6;}
+.styleCon{width: 180px;margin: 16px auto 0 auto;}
+.styleCon a{padding: 2px;background: #ff9700;color: #fff;font-size: 14px;float: left;display: inline-block;margin-right:8px;width: 50px;height: 24px;line-height: 24px;text-align: center;}
+.styleCon a:last-child{margin-right: 0;}
+
+.shopVip{width: 100%;height: 262px;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 21px;background: #fff;}
+.ml22{margin-left: 22px;font-size:14px;color:#333;}
+.k2{background-color:#ec0b0b;color:#fff;height:35px;line-height:35px;margin-left:15px;margin-top:15px;text-align:center;width: 198px;color:#fff;}
+.k2 a{color:#fff;font-size:14px;font-weight:bold;}
+
+.task{height: 308px;width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 21px;background: #fff;}
+.jobHe{height: 360px!important}
+.width228{width: 200px;}
+.decorate{background: #ff9700;color: #fff;height: 34px;line-height: 34px;text-align: center;font-size: 14px;font-weight: bold;}
+
+.middleCon{width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;}
+.middleHon2{height: 1240px;background: #fff;}
+.middleCon2{height: 892px;background: #fff;}
+.middleConw4{height: 634px;background: #fff;}
+.capabiliH{height: 917px;background: #fff;}
+.capabiliH3{height: 702px;background: #fff;}
+.capabiliH5{height: 475px;background: #fff}
+.capabiliH2{height: 915px;background: #fff;}
+.middleConl{width: 650px;margin: 0 auto;}
+.middleCon3{height:890px;background: #fff;}
+.middleConh5{width: 664px;margin: 0 auto }
+.abstract{line-height: 70px;height: 70px;border-bottom: 1px solid #e6e6e6;}
+.mr30 a{margin-right: 30px!important;}
+.mr30 a:last-child{margin-right: 0!important;}
+.abstract2{height: 58px;border-bottom: none;line-height: 58px;}
+.abstract a{margin-right: 39px;font-weight: bold;font-size: 16px;}
+.abstract a:first-child{margin-left: 4px;}
+.abstract a:last-child{margin-right: 0;}
+.inputCon4{width: 100%;height: 32px;line-height: 32px;margin: 30px 0 14px 0;}
+.inputList{width: 332px;height: 32px;border: 1px solid #e6e6e6;box-sizing: border-box;text-indent: 6px;margin-right: 20px;}
+.dynamicContent{width:100% ;height: 128px;border: 1px solid #e6e6e6;box-sizing: border-box;text-indent: 6px;}
+.mt30{padding-top: 30px;border-top:1px solid #e6e6e6;margin-top:20px;}
+.height140{height: 138px;border-top: 1px solid #e6e6e6;line-height: 138px;}
+.selectP{border-bottom: 4px solid #ff9700;position: relative;padding-bottom: 5px;}
+.selectP:after{content: "";width:100%;height:6px;position: absolute;background: url("../images/index/triangle.jpg") no-repeat center top;left: 0;bottom:-10px;}
+
+
+.storeMessage{height: 50px;line-height: 50px;margin-left: 22px;font-size: 16px;}
+.mt18{height: 30px;box-sizing: border-box;border: 1px solid #e6e6e6;width: 139px;line-height: 28px;text-align: center;margin: 16px 0 0 22px}
+.apply2{height: 462px;box-sizing: border-box;border: 1px solid #e1e1e1;margin-top: 22px;background: #fff;}
+.apply2 span{color: #ff8042;}
+.nickname{width: 520px;}
+.nickname>a{font-size: 16px;color: #2f88cc;float: left;}
+.nickname img{display: block;float: left;margin-left: 10px;}
+.imp2{height: 110px;width: 656px;box-sizing: border-box;border-bottom: 1px solid #e6e6e6;margin: 20px 23px 0 23px;}
+.imp2 img{display: block;float: left;width: 100px;height: 100px;}
+.mt6{margin-top: 10px;}
+.meContent{padding-top: 10px;font-size: 14px;}
+
+.xqly3{background-color:#FFF;border:1px solid #e6e6e6;float:left;height:280px;margin-top:18px;width:702px;}
+.xqly_box3{border-bottom:1px solid #e6e6e6;height:54px;width:100%;line-height: 54px;}
+.xqly_left3{float: left;width: 100px;margin-left: 24px;font-size: 16px;}
+.Logon2{float:left;margin-left:18px;margin-top:10px;width:570px;}
+.copy{color:#999;margin-top: 10px;text-align:center;}
+
+.evaluation{height: 58px;border: 1px solid #e6e6e6;box-sizing: border-box;background: #fff;}
+.evaluation p{width: 99px;height:30px;line-height:30px;background-color: #f4f4f4;border: 1px solid #e6e6e6;border-radius: 2px;float: left;margin: 12px 0 0 8px;text-indent: 10px;}
+
+.bagr2{background: red;}
+.vister3{height: 202px;width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 20px;background: #fff;}
+.visitorList3{}
+.visitorList3 li{height: 42px;margin-left: 18px;float: left;width: 55px;margin-top: 15px;}
+.visitorList3 li:nth-child(3n + 1){margin-left: 0;}
+
+.ml13{margin-left: 13px;}
+/*简介*/
+.bor-le2{border-left:4px solid #f27f4f;font-size:14px;font-weight:700;height:14px;margin:10px 0;padding-left:6px;}
+.reference3{padding: 5px 0 12px 10px;}
+.rate2 img{display: block;float: left;width: 84px;height: 15px;}
+.mt25{margin-top: 25px;}
+.content3{height: 79px;}
+.video2{width: 664px;}
+.video2 li{float: left;margin-right: 10px;}
+.video2 li:last-child{margin-right: 0;}
+/*能力*/
+.scale{height: 185px;}
+
+.rleaseTitle{height: 14px;margin-top: 20px;}
+.rleaseTitle a{margin-right: 20px;}
+.describeTitle{height: 124px!important;}
+.mt15{margin-top: 15px;border-bottom: 1px solid #e6e6e6;padding-bottom: 20px;}
+.describeTitle2 img{display: block;float: left;width: 100px;height: 100px;}
+.describeTitle2{width: 100px;height: 124px;}
+.bottomk{height: 24px;line-height: 24px;font-size: 16px;color: #2f88cc;}
+.reply2{height: 60px;background:#eeeeee;width: 550px;margin-top: 10px;}
+.satisfaction{margin-left: 22px;height: 32px;line-height: 32px;font-size: 14px;color: #5b5b5b;}
+.reply2 p a{float: right;margin-right: 10px;font-size: 14px;color: #5b5b5b;}
+
+.productList3 li{margin-top:20px; }
+.proHeight{height: 140px!important;width: 206px!important;}
+.height120{height: 130px;line-height: 130px;}
+.job2{height: 58px;line-height: 58px;width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 20px;}
+.job2 a{padding: 4px;margin-right: 14px;}
+.job2 a:hover{background: #ff9700;color: #fff;}
+.job2 a:first-child{margin-left: 10px;}
+.job2 a:last-child{margin-right: 8px;margin-left: 40px;}
+.vacancy2{height: 237px;width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 24px;}
+.vacancy2Top{height: 32px;line-height: 32px;border-bottom: 1px solid #e6e6e6;text-indent: 16px;}
+
+.message5{margin: 20px 0 0 18px;}
+.ma260{width: 260px;}
+.wid330{width: 400px;float: left;}
+/*信用管理*/
+.creditRating{height: 60px;line-height:60px;font-size: 18px;}
+.f18{font-size: 18px;font-weight: bold;}
+.f14{font-size: 14px;font-weight: bold;}
+.certification{height:40px;line-height:40px;margin-left: 14px;}
+.radioCon{width: 16px;height: 16px;margin-right: 6px;margin-top:12px;display: block;float: left;}
+.hire2{border-radius:4px;font-size:18px;height:40px;line-height:40px;margin-left:30px;text-align:center;width:90px;}
+.hire3{border-radius:4px;font-size:18px;height:24px;line-height:24px;text-align:center;width:60px;margin-top: 10px;}
+
+.browseList{}
+.browseList li{margin-top: 12px;height: 32px;}
+.license2{width: 110px;text-align: right;display: inline-block;}
+.prompt3{padding: 10px 0;color: #bfbfbf;margin-left: 106px;}
+.inputCon3{height: 30px;width: 218px;border: 1px solid #e6e6e6;}
+.browse{height: 30px;width: 58px;border: 1px solid #e6e6e6;display: inline-block;line-height: 30px;text-align: center;font-weight: bold;background: #f1f1f1;}
+.marginAll{margin-top: 20px;}
+.mt70{margin-top: 70px;}
+.rate2{margin-top: 40px;width: 200px;}
+.rate2 p{margin-top: 10px;}
+.rateNum{float: left;}
+
+.degreeList{padding-left: 10px;}
+.degreeList li{float: left;width: 80px;margin-right: 90px;padding-top: 10px;}
+.degreeList li:last-child{margin-right: 0;}
+.degreeList li>div{}
+.friendNumber2{width: 228px;height: 420px;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 20px;background: #fff;}
+
+
+
+
+
+
