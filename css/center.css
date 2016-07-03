@@ -37,9 +37,15 @@
 .personality a{display: block;float: left;margin:6px 12px 0 0;}
 /*我的购物车*/
 .orderTop{width: 930px;margin:26px 0 0 23px;box-sizing: border-box;border: 1px solid #e6e6e6;height:827px;}
+.orderTop2{width: 930px;height:827px;margin-left: 23px;}
 .orderTop li{height: 59px;border-bottom: 1px solid  #e6e6e6;line-height: 59px;padding-left: 32px;}
 .orderTop>ul>li:first-child{height: 38px;line-height: 38px;}
 .orderTop li a{width: 60px;text-align: center;display: block;}
+
+.complaint{width: 46px;height: 28px;line-height: 28px;background: #f6f7f7; border: 1px solid #e6e6e6;border-radius: 2px; display: inline-block; text-align: center;}
+.tableConB a.complaint{color: #7f7f7f; text-decoration: none;}
+.tableConB a.complaint:hover{background: #ff9700;color:#fff; border-color: #fe6601;}
+.tableConB a.btnMl{margin-left: 10px; background: #ff9700; color:#fff; border-color: #fe6601;}
 /*我的关注*/
 .about{width: 888px;margin-left: 23px;}
 .raiseImg span{font-size: 15px;}
@@ -56,6 +62,7 @@
 .tableConB td{height: 57px;border-bottom: 1px solid #e6e6e6;text-align: center;}
 .tableConB td input{margin-right: 10px;}
 .tableConB a{text-decoration: underline;}
+.tableConB td.alignLeft{text-align: left;}
 .tablePage{border: 1px solid #e6e6e6;border-top: none;margin-top: 0;padding:14px 23px 14px 0;}
 .tablePageL{float: left;}
 .tablePageL a{margin-left: 5px;background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 4px;}

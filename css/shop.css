@@ -73,6 +73,7 @@
 
 .middleCon{width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;}
 .middleHon2{height: 1240px;background: #fff;}
+.middleHon3{height:1380px;background: #fff}
 .middleCon2{height: 892px;background: #fff;}
 .middleConw4{height: 634px;background: #fff;}
 .capabiliH{height: 917px;background: #fff;}
@@ -154,9 +155,16 @@
 .reply2{height: 60px;background:#eeeeee;width: 550px;margin-top: 10px;}
 .satisfaction{margin-left: 22px;height: 32px;line-height: 32px;font-size: 14px;color: #5b5b5b;}
 .reply2 p a{float: right;margin-right: 10px;font-size: 14px;color: #5b5b5b;}
-
+.productList3{}
 .productList3 li{margin-top:20px; }
 .proHeight{height: 140px!important;width: 206px!important;}
+
+.imgCon{width: 148px;height:108px;float: left;position: relative;border: 1px solid #f7f7f7;}
+.imgCon img{display: block;width: 100%;}
+.imgCon p{position: absolute;left:0;bottom:0;width: 100%;height:24px; line-height: 24px;text-align: center;color:#fff;background: rgba(0,0,0,.5);}
+.imgCon:hover {border-color: #fe6601;}
+.imgCon:hover p{background: rgba(255,151,0,.5);}
+
 .height120{height: 130px;line-height: 130px;}
 .job2{height: 58px;line-height: 58px;width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;margin-top: 20px;}
 .job2 a{padding: 4px;margin-right: 14px;}
@@ -241,6 +249,50 @@
 .imgList p{position: absolute;bottom: 0;left: 0;width: 100%;height: 16px;line-height: 16px;color:#fff;text-align: center; background: rgba(0,0,0,.4);}
 .imgList a:hover img{border-color:#fe6601;}
 .imgList a:hover p{display: none;}
+/*威客（评价管理）*/
+.trading{width: 950px;border: 1px solid #e6e6e6;box-sizing: border-box;margin-left: 22px;float: left;height:1292px;background: #fff;}
+.tradTop{height: 50px;line-height: 50px;width: 100%;border-bottom: 1px solid #e6e6e6;text-indent: 18px;font-size: 16px;font-weight: bold;}
+.mt70{margin-top: 70px;}
+.seviceC{width: 908px;margin: 0 auto;}
+.category3{border-right: 1px solid #e6e6e6;width: 56px;display: inline-block;height: 56px;padding: 0!important;background: #f7f7f7;margin-left: 0!important;text-align: center;}
+.tableConB{margin-top: 20px;color:#666;}
+.tableConB table{border: 1px solid #e6e6e6;border-bottom: none;}
+.tableConB th{height: 38px;border-bottom: 1px solid #e6e6e6;}
+.tableConB td{height: 57px;border-bottom: 1px solid #e6e6e6;text-align: center;}
+.tableConB td input{margin-right: 10px;}
+.tableConB a{text-decoration: underline;}
+.complaint{width: 46px;height: 28px;line-height: 28px;background: #f6f7f7; border: 1px solid #e6e6e6;border-radius: 2px; display: inline-block;}
+.tableConB a.complaint{color: #7f7f7f; text-decoration: none;}
+.tableConB a.complaint:hover{background: #ff9700;color:#fff; border-color: #fe6601;}
+/*代表（简历）*/
+.title{background-color:#fff4e5;height:35px;line-height:35px;width:664px;}
+.title a{color:#5c5954;font-size:14px;padding-left:16px;}
+.table{border:1px #e2e2e2 solid;height:170px;margin-top:19px;width:663px;}
+.bornoe{border-right: none; border-bottom: none;}
+.table_ul{border-right:1px solid #e2e2e2;float:left;width:220px;}
+.table_ul li{border-bottom:1px #e2e2e2 solid;float:left;line-height:33px;width:220px;}
+.table_ul li a{color:#585858;font-size:12px;margin-left:16px;}
+.table_ul li span{float:right;width:110px;}
+.table h6{color:#585858;font-size:12px;line-height:33px;text-indent:16px;border-bottom: 1px solid #e6e6e6;border-right: 1px solid #e6e6e6;}
+
+.jyjl{float:left;margin-top:26px;}
+.school{margin-left:16px;margin-top:16px;width:100%;}
+.school_ul{float:left;width:324px;}
+.school_ul li span{color:#2f2f2f;font-weight:700;}
+.school_ul li a{color:#666;font-size:12px;line-height:20px;}
+.zwpj{float:left;margin-top:28px;}
+.zwpj p{color:#696969;font-size:12px;line-height:33px;margin-left:16px;}
+.seviceImg{}
+.seviceImg img{width: 664px;height: 372px;}
+/*威客（已发布需求）*/
+.seviceName{height: 180px;width: 100%;border: 1px solid #e6e6e6;box-sizing: border-box;}
+.seviceTop{margin: 16px 0 0 20px;}
+.hire{border-radius:4px;font-size:18px;height:40px;line-height:40px;margin-right:20px;margin-top:10px;text-align:center;width:120px;float: left;}
+.hire a{color: #fff;}
+.Collection.right{margin-left:12px;float: left;}
+.Collection.right p{margin-bottom:4px;margin-top:12px;}
+
+
 
 
 

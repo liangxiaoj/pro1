@@ -346,6 +346,7 @@ p.hot-search a{margin-left:-5px;}
 .title{background-color:#fff4e5;height:35px;line-height:35px;width:890px;}
 .title a{color:#5c5954;font-size:14px;padding-left:16px;}
 .table{border:1px #e2e2e2 solid;height:170px;margin-top:19px;width:870px;}
+.bornoe{border-right: none; border-bottom: none;}
 .table_ul{border-right:1px solid #e2e2e2;float:left;width:289px;}
 .table_ul li{border-bottom:1px #e2e2e2 solid;float:left;line-height:33px;width:289px;}
 .table_ul li a{color:#585858;font-size:12px;margin-left:16px;}
